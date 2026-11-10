@@ -1,0 +1,12 @@
+{
+  "aciklama": "Emr.tv kanal düzeltmeleri. Uygulama her açılışta GitHub'daki emrtv-indir/kanallar.json dosyasını okur; bu dosya internet yokken kullanılan yedektir.",
+  "degistir": {
+    "ATV.tr":    { "kaliteler": ["360p", "480p", "720p"] },
+    "NOW.tr":    { "kaliteler": ["360p", "480p", "720p"] },
+    "StarTV.tr": { "kaliteler": ["360p", "480p", "720p"] }
+  },
+  "gizle": ["ShowTurk.tr"],
+  "ekle": [
+    { "name": "Show TV", "key": "uygulama.ShowTV", "uygulama": "Show TV", "logo": "https://i.imgur.com/fdZpGDj.png" }
+  ]
+}
