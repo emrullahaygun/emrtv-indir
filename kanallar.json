@@ -7,6 +7,6 @@
   },
   "gizle": ["ShowTurk.tr"],
   "ekle": [
-    { "name": "Show TV", "key": "uygulama.ShowTV", "uygulama": "Show TV", "web": "https://www.showtv.com.tr/canli-yayin", "logo": "https://i.imgur.com/fdZpGDj.png" }
+    { "name": "Show TV", "key": "uygulama.ShowTV", "uygulama": "Show TV", "web": "https://www.showtv.com.tr/canli-yayin", "logo": "https://mo.ciner.com.tr/assets/images/showtv-logo-400x400.png" }
   ]
 }
